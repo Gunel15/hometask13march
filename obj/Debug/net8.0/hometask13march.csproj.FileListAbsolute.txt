@@ -12,3 +12,4 @@ C:\Users\V&V\source\repos\hometask13march\hometask13march\obj\Debug\net8.0\refin
 C:\Users\V&V\source\repos\hometask13march\hometask13march\obj\Debug\net8.0\hometask13march.pdb
 C:\Users\V&V\source\repos\hometask13march\hometask13march\obj\Debug\net8.0\hometask13march.genruntimeconfig.cache
 C:\Users\V&V\source\repos\hometask13march\hometask13march\obj\Debug\net8.0\ref\hometask13march.dll
+C:\Users\V&V\source\repos\hometask13march\hometask13march\obj\Debug\net8.0\hometask13march.sourcelink.json
