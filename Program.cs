@@ -35,36 +35,36 @@
 
 using System.ComponentModel.Design;
 
-//int num=2;int count = 0;
-//for (int i = 2; i <= num / 2; i++)
-// if (num % i == 0)
-//     count++;
-//if (count >= 1)
-//    Console.WriteLine("eded murekkebdir");
-//else Console.WriteLine("eded sadedir");
+int num = 71; int count = 0;
+for (int i = 2; i <= num / 2; i++)
+    if (num % i == 0)
+        count++;
+if (count >= 1)
+    Console.WriteLine("eded murekkebdir");
+else Console.WriteLine("eded sadedir");
 
 
-int[] arr = { 1, 2, 4, 6, 78, 34, 23, 11 }; int countm = 0;
+//int[] arr = { 1, 2, 4, 6, 78, 34, 23, 11 }; int countm = 0;
 
-for (int i = 0; i < arr.Length; i++)
+//for (int i = 0; i < arr.Length; i++)
 
-{
-    int count = 0;
-    for (int j = 2; j <= arr[i] / 2; j++)
-    {
-        if (arr[i] % j == 0)
-        { count++; }
-    }
-    {
-        if (count >= 1)
-        {
-            countm++;
-           
-        }
-    }
-}
-Console.WriteLine(countm);     
-    
+//{
+//    int count = 0;
+//    for (int j = 2; j <= arr[i] / 2; j++)
+//    {
+//        if (arr[i] % j == 0)
+//        { count++; }
+//    }
+//    {
+//        if (count >= 1)
+//        {
+//            countm++;
+
+//        }
+//    }
+//}
+//Console.WriteLine(countm);     
+
 
 
 
